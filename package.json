@@ -19,6 +19,6 @@
   "homepage": "https://github.com/m-takehara/zenn.dev#readme",
   "dependencies": {},
   "devDependencies": {
-    "zenn-cli": "^0.1.94"
+    "zenn-cli": "^0.1.153"
   }
 }
